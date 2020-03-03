@@ -11,6 +11,8 @@ echo $current;
 <body>
 <form>
     <br>
+    <img src="zoo-800x420.jpg" alt="Победитель">
+    <br><br>
     <a href="index.php">Повторить игру</a>
 </form>
 </body>
